@@ -1,0 +1,20 @@
+[0.429s] Invoking command in '/home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/braitenberg_vehicle': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/build/braitenberg_vehicle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/install/braitenberg_vehicle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/braitenberg_vehicle build --build-base /home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/build/braitenberg_vehicle/build install --record /home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/build/braitenberg_vehicle/install.log --single-version-externally-managed install_data
+[0.570s] running egg_info
+[0.579s] writing ../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/PKG-INFO
+[0.579s] writing dependency_links to ../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/dependency_links.txt
+[0.580s] writing requirements to ../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/requires.txt
+[0.580s] writing top-level names to ../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/top_level.txt
+[0.599s] reading manifest file '../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/SOURCES.txt'
+[0.600s] writing manifest file '../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/SOURCES.txt'
+[0.600s] running build
+[0.600s] running build_py
+[0.600s] running install
+[0.604s] running install_lib
+[0.613s] running install_data
+[0.613s] copying urdf/braitenberg_vehicle.urdf -> /home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/install/braitenberg_vehicle/share/braitenberg_vehicle/urdf
+[0.613s] running install_egg_info
+[0.623s] removing '/home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/install/braitenberg_vehicle/lib/python3.12/site-packages/braitenberg_vehicle-0.0.0-py3.12.egg-info' (and everything under it)
+[0.623s] Copying ../build/braitenberg_vehicle/braitenberg_vehicle.egg-info to /home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/install/braitenberg_vehicle/lib/python3.12/site-packages/braitenberg_vehicle-0.0.0-py3.12.egg-info
+[0.624s] running install_scripts
+[0.690s] writing list of installed files to '/home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/build/braitenberg_vehicle/install.log'
+[0.705s] Invoked command in '/home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/braitenberg_vehicle' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/build/braitenberg_vehicle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/install/braitenberg_vehicle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/braitenberg_vehicle build --build-base /home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/build/braitenberg_vehicle/build install --record /home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/build/braitenberg_vehicle/install.log --single-version-externally-managed install_data

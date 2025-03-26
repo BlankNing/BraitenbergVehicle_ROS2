@@ -1,0 +1,21 @@
+running egg_info
+writing ../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/PKG-INFO
+writing dependency_links to ../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/dependency_links.txt
+writing requirements to ../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/requires.txt
+writing top-level names to ../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/top_level.txt
+reading manifest file '../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/SOURCES.txt'
+writing manifest file '../build/braitenberg_vehicle/braitenberg_vehicle.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+creating /home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/install/braitenberg_vehicle/share/braitenberg_vehicle/launch
+copying launch/display_rviz2.launch.py -> /home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/install/braitenberg_vehicle/share/braitenberg_vehicle/launch
+creating /home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/install/braitenberg_vehicle/share/braitenberg_vehicle/urdf
+copying urdf/braitenberg_vehicle.urdf -> /home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/install/braitenberg_vehicle/share/braitenberg_vehicle/urdf
+running install_egg_info
+removing '/home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/install/braitenberg_vehicle/lib/python3.12/site-packages/braitenberg_vehicle-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../build/braitenberg_vehicle/braitenberg_vehicle.egg-info to /home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/install/braitenberg_vehicle/lib/python3.12/site-packages/braitenberg_vehicle-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/umr/Documents/ROSProjects/BraitenbergVehicle_ROS2/build/braitenberg_vehicle/install.log'
